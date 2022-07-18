@@ -1,0 +1,11 @@
+msgid "plugins.generic.wlb.masthead.title"
+msgstr "WLB Masthead Plugin"
+
+msgid "plugins.generic.wlb.masthead.desc"
+msgstr "This plugin allows for extra fields in the masthead tab of each journal."
+
+msgid "plugins.generic.zdb.field.title"
+msgstr "Digital ZDB ID"
+
+msgid "plugins.generic.zdb.field.desc"
+msgstr "The digital ZDB ID of the journal."

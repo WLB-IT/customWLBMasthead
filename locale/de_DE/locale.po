@@ -1,0 +1,11 @@
+msgid "plugins.generic.wlb.masthead.title"
+msgstr "WLB Impressum Plugin"
+
+msgid "plugins.generic.wlb.masthead.desc"
+msgstr "Dieses Plugin ermöglicht neue Felder im Impressum jeder Zeitschrift."
+
+msgid "plugins.generic.zdb.field.title"
+msgstr "Digitale ZDB Identifikationsnummer"
+
+msgid "plugins.generic.zdb.field.desc"
+msgstr "Die digitale ZDB Identifikationsnummer dieser Zeitschrift."
